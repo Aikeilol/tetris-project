@@ -10,9 +10,9 @@
   gap: 2px;
   height: calc(100vh - 16px);
   width: calc(50vh - 8px);
-  background: chocolate;
+  background: dimgray;
 }
 
 .block{
-background: #fa8532;
+background: darkslategray;
 }
